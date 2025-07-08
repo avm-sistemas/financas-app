@@ -78,3 +78,7 @@ Se for útil para ti e quiseres pagar um café ou contribuir, será aceito.
 - Ethereum 0xBDF7C6E333696EEEa51C527E3C18A70C7801A4bf
 
 <!-- GitAds-Verify: TPPMM5YN8E3YUA7O43FZE7YQNV6HGPAH -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=avm-sistemas/financas-app@github)](https://gitads.dev/v1/ad-track?source=avm-sistemas/financas-app@github)
+
+
