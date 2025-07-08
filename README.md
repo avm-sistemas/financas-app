@@ -76,3 +76,5 @@ Se for útil para ti e quiseres pagar um café ou contribuir, será aceito.
 - [Github Sponsor](https://github.com/sponsors/avmesquita)
 - Bitcoin bc1qcnxq2n5geavxwdkcv534agkwtr6ghgkzcdsy6y
 - Ethereum 0xBDF7C6E333696EEEa51C527E3C18A70C7801A4bf
+
+<!-- GitAds-Verify: TPPMM5YN8E3YUA7O43FZE7YQNV6HGPAH -->
